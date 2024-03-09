@@ -1,4 +1,4 @@
-[Tutorial](https://www.youtube.com/watch?v=NFrFhBJPTmI&list=LL&index=8)
+https://sidebar-react-smoky.vercel.app/
 
 <hr/>
 <img src = './public/local.gif'>
